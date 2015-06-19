@@ -1,6 +1,6 @@
-# *Codebook for run_analysis.R*
+# *README for run_analysis.R*
 
-### This codebook is organized by section, which is numbered in the original file run_analysis.R
+### This README is organized by section, which is numbered in the original file run_analysis.R
 
 #### **1.** The first step we need to take to create the tidy dataset is to read in the files, into R. Following is the code which accomplishes this:
 
